@@ -1,3 +1,13 @@
-body {
-  background-color: rgb(27, 96, 105);
+@font-face {
+  font-family: 'm6x11';
+  src: url(fonts/m6x11.ttf);
+}
+
+ody {
+  background-color: rgb(9, 105, 139);
+}
+
+h1 {
+  font-family: 'm6x11', sans-serif;
+  color: white;
 }
